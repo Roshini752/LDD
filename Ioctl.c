@@ -23,7 +23,7 @@
 #define MY_IOCTL_MAX_CMD 2
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johny");
+MODULE_AUTHOR("roshini");
 MODULE_DESCRIPTION(" major and minor  driver");
 MODULE_VERSION("1.0.0");
 
