@@ -172,6 +172,6 @@ static __exit void  char_dev_exit(void)
 module_init(char_dev_init);
 module_exit(char_dev_exit);
 
-MODULE_AUTHOR("johny");
+MODULE_AUTHOR("roshini");
 MODULE_DESCRIPTION("Character Device Driver");
 MODULE_LICENSE("GPL");
